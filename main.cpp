@@ -7,5 +7,6 @@ int main()
     cout <<"Hello from local!\n";
     cout <<"Hello from GitHub\n";
     cout <<"I am back\n";
+    cout<<"Changes in global\n";
     return 0;
 }
